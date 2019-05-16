@@ -3,13 +3,11 @@
 ### By Khang Dang
 
 #### For the game server:
-- Within the folder "Multiplayer Hangman Server", open the file package.bluej using BlueJ
-- Run the main method of MultiplayerHangmanServerWithThread class and let it sit.
+- Within the folder "Multiplayer Hangman Server", run the main method of MultiplayerHangmanServerWithThread class and let it sit.
 - Result for multiple game with multiple users should be displayed through the same terminal with no interruption/error.
 
 #### For the client:
-- Within the folder "Multiplayer Hangman Client", open the file package.bluej using BlueJ
-- Run the main method of MultiplayerHangmanClient class and and begin to interact with the server.
+- Within the folder "Multiplayer Hangman Client", run the main method of MultiplayerHangmanClient class and and begin to interact with the server.
 
 #### For multi-threaded purpose:
 - Create a copy of the folder "Multiplayer Hangman Client" and repeat the same steps for the client to connect to the server.
