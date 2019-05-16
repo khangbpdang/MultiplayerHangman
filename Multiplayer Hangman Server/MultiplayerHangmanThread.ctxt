@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MultiplayerHangmanThread
+comment1.params=socket\ oos\ ois\ lboard
+comment1.target=MultiplayerHangmanThread(java.net.Socket,\ java.io.ObjectOutputStream,\ java.io.ObjectInputStream,\ Leaderboard)
+comment2.params=
+comment2.target=void\ run()
+numComments=3

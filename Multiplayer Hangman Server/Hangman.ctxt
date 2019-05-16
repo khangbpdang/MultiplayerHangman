@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Hangman
+comment0.text=\n\ Write\ a\ description\ of\ class\ hangman\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Hangman()
+comment2.params=
+comment2.target=java.lang.String\ getStatus()
+comment3.params=choice
+comment3.target=java.lang.String\ guess(char)
+comment4.params=
+comment4.target=int\ getTurns()
+comment5.params=
+comment5.target=boolean\ isWon()
+comment6.params=
+comment6.target=java.lang.String\ getGuessList()
+comment7.params=
+comment7.target=java.lang.String\ getTarget()
+comment8.params=list
+comment8.target=java.lang.String\ getStringRepresentation(java.util.ArrayList)
+comment8.text=\ @param\ list\ of\ characters\n\ Return\ a\ string\ of\ all\ items\ in\ the\ list\n
+numComments=9
